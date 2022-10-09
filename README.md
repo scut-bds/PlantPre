@@ -1,6 +1,8 @@
 # [PlantPre](https://github.com/scut-bds/PlantPre)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)  [![GitHub stars](https://img.shields.io/github/stars/scut-bds/PlantPre)](https://github.com/scut-bds/PlantPre/stargazers) [![GitHub license](https://img.shields.io/github/license/scut-bds/PlantPre)](https://github.com/scut-bds/PlantPre/blob/main/LICENSE) ![GitHub repo size](https://img.shields.io/github/repo-size/scut-bds/PlantPre) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) ![GitHub last commit](https://img.shields.io/github/last-commit/scut-bds/PlantPre)     
 
+README: [English](https://github.com/scut-bds/PlantPre/blob/main/README.md) | [中文](https://github.com/scut-bds/PlantPre/blob/main/README-zh.md)   
+
 **A Dataset for Falling Risk Assessment in the Elderly using Wearable Plantar**    
 
 
